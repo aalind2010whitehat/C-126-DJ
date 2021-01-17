@@ -7,7 +7,7 @@
 
 .note {
     font-size: 15px;
-    color: rgb(130, 27, 161);
+    color: blue;
     background-color: white;
     padding: 5px;
     border-radius: 5px;
@@ -48,15 +48,26 @@ body {
     margin: 15px;
 }
 
-.play_button {
-font-size: 25px;
-width: 130px;
-color: white;
-background-color: black;
-}
 
 canvas {
-    border: 10px ridge blueviolet;
+    border: 10px ridge white;
     border-radius: 20px;
     margin-top: 50px;
 }
+
+button{
+    color: white;
+    font-family: Agency FB;
+    padding:5px;
+    font-size:30px;
+    width:160px;
+    height:55px;
+    background-color:darkcyan;
+    box-shadow:5px 5px 5px grey;
+
+  }
+  h3 {
+      font-family: Agency Fb;
+      font-weight: bold;
+
+  }
